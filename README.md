@@ -4,5 +4,5 @@
 ### - Python 3.7
 ### - Library Numpy
 
-###Description
+### Description
 A example how to train the machine to learn Truth Table "AND".
