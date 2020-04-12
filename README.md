@@ -1,6 +1,8 @@
-## AI_LearningTruthTable_AND
+# AI_LearningTruthTable_AND
 
-* Dependecies
-# - Python 3.7
-# - Library Numpy
+* ## Dependecies
+### - Python 3.7
+### - Library Numpy
+
+###Description
 A example how to train the machine to learn Truth Table "AND".
