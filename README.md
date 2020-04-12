@@ -1,4 +1,4 @@
-# AI_LearningTruthTable_AND
+# Artificial Intelligence - Learning Truth Table "AND"
 
 * ## Dependecies
 ### - Python 3.7
